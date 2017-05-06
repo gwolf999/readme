@@ -1,2 +1,3 @@
 ﻿测试bran1分支的实现
 在readme3下fetch远端的主分支（怎么自动合并了呢？），merge成功！
+readme在bran1分支上merge远端成功，但在master上合并失败！
